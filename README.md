@@ -38,6 +38,7 @@ You can run Geodig locally using Python.
 git clone https://github.com/SwarmGeo-CN/geodig.git
 
 # 2. Install dependencies
+cd geodig
 pip install -r requirements.txt
 
 # 3. Start digging
